@@ -14,6 +14,7 @@ variable "enable_dns_hostnames" {
     default = true
 }
 
+# Optional
 variable "common_tags" {
     default = {}
 }

@@ -9,4 +9,4 @@ resource "aws_vpc" "main" {
         Name = local.resource_name
     }
   )
-} 
+}
